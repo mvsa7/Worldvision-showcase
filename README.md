@@ -30,7 +30,10 @@ Discover *where* to travel — filter 247 countries by climate, safety and seaso
 
 | Interactive globe | Country details | My World |
 |:---:|:---:|:---:|
-| _screenshot_ | _screenshot_ | _screenshot_ |
+| <img width="1504" height="848" alt="Screenshot 2026-07-04 alle 22 33 00" src="https://github.com/user-attachments/assets/56a45ad5-74a4-416d-9cb1-1d9527acf59e" />
+ | <img width="1481" height="833" alt="Screenshot 2026-07-04 alle 22 33 53" src="https://github.com/user-attachments/assets/456fb2e8-2de6-4297-8d6d-b71b9d9c9d37" />
+ | <img width="1507" height="853" alt="Screenshot 2026-07-04 alle 22 45 26" src="https://github.com/user-attachments/assets/6a6c577d-a812-4204-a53b-6e86dc69ddbc" />
+ |
 
 ---
 
