@@ -31,7 +31,7 @@ Discover *where* to travel — filter 247 countries by climate, safety and seaso
 - **🌐 Interactive 3D globe** — rotate, zoom and click any of 247 countries (Three.js).
 - **🔍 Smart destination filters** — search by climate, safety index, landscape type and travel month; matching countries highlight live on the globe.
 - **🗺️ Thematic map layers** — recolor the globe by monthly climate, safety, or dominant landscape.
-- **🛫 Flight planning** — build and save flight plans with live prices (Amadeus API).
+- **🛫 Flight planning** — build and save flight plans, then search real flights via Kiwi.com.
 - **📍 "My World"** — mark visited countries, build a wishlist, and share your *"% of the world visited"* stat.
 - **🤖 AI country descriptions** — pre-generated offline and stored in the database, so pages load instantly with zero AI cost at runtime.
 - **🌍 Multilingual** — full UI in 9 languages (IT, EN, ES, FR, DE, PT, RU, ZH, AR).
@@ -45,7 +45,7 @@ Discover *where* to travel — filter 247 countries by climate, safety and seaso
 | **Styling** | Tailwind CSS, shadcn/ui |
 | **3D & data viz** | Three.js, D3, TopoJSON, Recharts |
 | **Backend** | Supabase (PostgreSQL, Auth, Row Level Security) |
-| **APIs** | Amadeus (flights), REST Countries, Travelpayouts |
+| **APIs** | Kiwi.com (flights), REST Countries, Travelpayouts |
 | **Deployment** | Vercel |
 
 ## 🏗️ Engineering highlights
